@@ -1,6 +1,10 @@
 LiquidRP
 ========
 
+Support
+========
+Post of this GitHub repository for help on the gamemode! tgp1994 probably won't help you on the github, unless you contact him on steam.
+
 Brief
 ========
 The original Liquid DarkRP by Jackool and then Deadman123, updated for Garry's Mod 13.
